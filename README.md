@@ -1,4 +1,4 @@
-# SomeCVAlgorithms.ipynb
+# 1) SomeCVAlgorithms.ipynb
 
 - Implemented and compared noise reduction techniques including Mean, Median, Gaussian and Non-Local Means filtering using PSNR and SSIM metrics.  
 - Performed edge detection using Prewitt, Sobel, Canny and Marr–Hildreth methods and applied edge-based image sharpening.  
